@@ -1,1 +1,1 @@
-# kaggle-quora-insincere-questions-classification
+# Quora Insincere Questions Classification
